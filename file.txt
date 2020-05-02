@@ -1,4 +1,6 @@
 lorem ipsum dolor sit amet consecteur..
 
 
-added one line.
+added one line
+
+added other line
